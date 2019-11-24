@@ -25,7 +25,7 @@ description: Personal Website
 navbar-links:
   Home: ""
   Projects: "projects"
-  Work Experience: "posts"
+  Work Experience: "work"
   Resume: "resume"
 
 # Image to show in the navigation bar - image must be a square (width = height)
