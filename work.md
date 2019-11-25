@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Internships
+title: Work Experience
 ---
 
 - **IIT Kanpur**  
