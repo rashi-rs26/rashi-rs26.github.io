@@ -9,7 +9,7 @@ title: Projects
     
 	
 
-- **Block and Tackle-**  
+- **Block and Tackle**  
 	Prof. Snigdha Biswas, Shiv Nadar University
 	Priority based software to manage the allocation of rooms such that there is maximum utilization of space by implementation of hot desking and avoidance of human error
 
