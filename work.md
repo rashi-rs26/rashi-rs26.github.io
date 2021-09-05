@@ -2,6 +2,14 @@
 layout: page
 title: Work Experience
 ---
+- **Rockwell Automation**
+	Led all the phases of SDLC while designing and developing end-to-end Manufacturing Operations Management (MOM) System to automate large-scale manufacturing operations of MARS Petcare in Thailand.
+	Integrated ERP system with MES by developing webservice using SOAP in Apache Camel.
+	Integrated MES with production lines through PLCs  for automation of production processes at factory floor.
+	Developed Hibernate APIs for data persistence while optimising the existing APIs to increase throughput and reduce latency, using Java parallel streams.
+	Developed custom UIs and services in Thingworx, using Javascript.
+	Provided vision to business for improving enterprise-wide manufacturing system which led to reducing overall production time by more than 60% and the expansion of the solution to 3 more sites.
+
 
 - **IIT Kanpur**  
 	Built a Traffic Generator which gave a variety of options to the user to generate detailed custom packets to be sent over a network from one device to another to test firewall rules and investigate the performance of network infrastructure, sensors, and security controls. It could be used for modeling and simulating the communication packets and payloads that would be produced by devices on a network.
@@ -12,7 +20,7 @@ title: Work Experience
 
 
 - **IIT Kanpur**  
-	Created a Network Analyzer or Packet Sniffer to monitor the incoming and outgoing packets of data on Linux using commands like sendip written on shellscript. It allowed the user to filter packets as per many criteria and dispaly packets with very detailed protocol information. It was used examine and troubleshoot security and network problems.
+	Created a Network Analyzer or Packet Sniffer to monitor the incoming and outgoing packets of data on Linux using commands like sendip written on shellscript. Implemented back-end functionality to process the data along with an interactive user interface. It allowed the user to filter packets as per many criteria and dispaly packets with very detailed protocol information. It was used examine and troubleshoot security and network problems.
 	
 
 - **Project Samuday, HCL**
