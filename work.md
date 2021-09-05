@@ -3,11 +3,11 @@ layout: page
 title: Work Experience
 ---
 - **Rockwell Automation**
-	Led all the phases of SDLC while designing and developing end-to-end Manufacturing Operations Management (MOM) System to automate large-scale manufacturing operations of MARS Petcare in Thailand.
-	Integrated ERP system with MES by developing webservice using SOAP in Apache Camel.
-	Integrated MES with production lines through PLCs  for automation of production processes at factory floor.
-	Developed Hibernate APIs for data persistence while optimising the existing APIs to increase throughput and reduce latency, using Java parallel streams.
-	Developed custom UIs and services in Thingworx, using Javascript.
+	Led all the phases of SDLC while designing and developing end-to-end Manufacturing Operations Management (MOM) System to automate large-scale manufacturing operations of MARS Petcare in Thailand. <br>
+	Integrated ERP system with MES by developing webservice using SOAP in Apache Camel. <br>
+	Integrated MES with production lines through PLCs  for automation of production processes at factory floor. <br>
+	Developed Hibernate APIs for data persistence while optimising the existing APIs to increase throughput and reduce latency, using Java parallel streams. <br>
+	Developed custom UIs and services in Thingworx, using Javascript. <br>
 	Provided vision to business for improving enterprise-wide manufacturing system which led to reducing overall production time by more than 60% and the expansion of the solution to 3 more sites.
 
 

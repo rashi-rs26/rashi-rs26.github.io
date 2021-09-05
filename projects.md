@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 - **CodeElf**  
-	Developed a new programming language and composed its grammar by deriving features from Python and Java. Implemented its lexical analyzer and parser using Python with Lark. Created compiler using Prolog. The new language could execute any algorithms with loops and conditional statements supporting data structures like integers, floats and strings
+	Developed a new programming language and composed its grammar by deriving features from Python and Java. Implemented its lexical analyzer and parser using Python with Lark. Created compiler using Prolog. The new language could execute any algorithms with decision and conditional statements supporting data structures like integers, decimals and strings
 
 - **Cryptocurrency Tracker** 
 	Built an application using React that fetched cryptocurrency values and displayed them on an interface. Made REST calls for real time values
